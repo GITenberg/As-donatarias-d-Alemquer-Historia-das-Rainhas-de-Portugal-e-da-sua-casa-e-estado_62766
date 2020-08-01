@@ -1,5 +1,5 @@
 _repo: As-donatarias-d-Alemquer-Historia-das-Rainhas-de-Portugal-e-da-sua-casa-e-estado_62766
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Oliveira Martins, J. P. (Joaquim Pedro)
@@ -14,6 +14,9 @@ contributor:
     wikipedia:
     - https://pt.wikipedia.org/wiki/Joaquim_Pedro_de_Oliveira_Martins
     - https://en.wikipedia.org/wiki/Joaquim_Pedro_de_Oliveira_Martins
+covers:
+- cover_type: archival
+  image_path: 62766-h/images/cover.jpg
 creator:
   author:
     agent_name: Pereira Franco Monteiro, João
@@ -23,6 +26,8 @@ creator:
     gutenberg_agent_id: '52111'
     url: http://www.gutenberg.org/2009/agents/52111
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62766#As-donatarias-d-Alemquer-Historia-das-Rainhas-de-Portugal-e-da-sua-casa-e-estado
 gutenberg_issued: '2020-07-26'
 gutenberg_type: Text
 identifiers:
