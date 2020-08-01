@@ -1,0 +1,49 @@
+_repo: As-donatarias-d-Alemquer-Historia-das-Rainhas-de-Portugal-e-da-sua-casa-e-estado_62766
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Oliveira Martins, J. P. (Joaquim Pedro)
+    aliases:
+    - Martins, Joaquim Pedro de Oliveira
+    - Martins, J. P. Oliveira
+    - Martins, Oliveira
+    birthdate: 1845
+    deathdate: 1894
+    gutenberg_agent_id: '36992'
+    url: http://www.gutenberg.org/2009/agents/36992
+    wikipedia:
+    - https://pt.wikipedia.org/wiki/Joaquim_Pedro_de_Oliveira_Martins
+    - https://en.wikipedia.org/wiki/Joaquim_Pedro_de_Oliveira_Martins
+creator:
+  author:
+    agent_name: Pereira Franco Monteiro, João
+    aliases:
+    - Pereira Franco Monteiro, Joao
+    - Monteiro, João Pereira Franco
+    gutenberg_agent_id: '52111'
+    url: http://www.gutenberg.org/2009/agents/52111
+description: ''
+gutenberg_issued: '2020-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62766'
+  lccn: '37017456'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DP'
+- !lcsh 'Alenquer (Portugal)'
+- !lcsh 'Queens -- Portugal'
+- GITenberg
+tableOfContents: Prefacio e advertencia -- A Casa das Rainhas -- D. Dulce -- D. Sancha
+  -- D. Beatriz de Gusmão -- Santa Izabel -- D. Constança -- D. Leonor Telles -- D.
+  Filippa -- D. Izabel de Lencastre -- D. Leonor d'Aragão -- D. Izabel de Lencastre
+  -- D. Leonor de Lencastre -- D. Leonor d'Austria -- D. Catharina d'Austria -- O
+  interregno dos Filippes -- D. Luiza de Gusmão -- D. Maria Francisca Izabel de Saboya
+  -- D. Maria Sophia de Neuburg -- D. Marianna d'Austria -- D. Marianna Victoria de
+  Bourbon.
+title: "As donatarias d'Alemquer\r\nHistoria das Rainhas de Portugal e da sua casa\
+  \ e estado"
+url: http://www.gutenberg.org/ebooks/62766
